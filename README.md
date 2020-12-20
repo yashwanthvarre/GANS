@@ -16,4 +16,5 @@
 
 ## Instructions
 - Download the code from the repository.
+- Install the necessary dependencies.
 - Run the file "python practice2.py".
